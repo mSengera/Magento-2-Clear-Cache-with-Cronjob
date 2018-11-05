@@ -1,4 +1,4 @@
-[![Magento 2](https://img.shields.io/badge/Magento2-yes-green.svg)](https://github.com/mSengera/Magento-2-CSV-to-301-Redirect-Extension)
+[![Magento 2](https://img.shields.io/badge/Magento2-yes-green.svg)](https://github.com/mSengera/Magento-2-Clear-Cache-with-Cronjob)
 
 # [Magento 2] Sengera/RefreshCacheWithCron
 A extension to clear cache with the magento cronjob.
