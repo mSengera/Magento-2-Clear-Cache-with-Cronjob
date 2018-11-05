@@ -3,6 +3,7 @@
 # [Magento 2] Sengera/RefreshCacheWithCron
 A extension to clear cache with the magento cronjob.
 You can specify the execution times in app/code/Sengera/RefreshCacheWithCron/etc/crontab.xml
+
 Default is 2:30AM, every day.
 
 Installation
