@@ -11,6 +11,7 @@ Installation
 2. Run "bin/magento setup:upgrade"
 3. Depending on your Workspace: Run setup:di:compile and redeploy static-content if needed
 4. Clear cache (Console "bin/magento c:c" or via Backend)
-7. Test extension and be happy.
+5. Set-up Cronjob in Magento, if not done yet. (https://devdocs.magento.com/guides/v2.0/config-guide/cli/config-cli-subcommands-cron.html)
+6. Test extension and be happy.
 
 Best regards and happy coding!
